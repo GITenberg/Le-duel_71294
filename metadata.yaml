@@ -1,0 +1,31 @@
+_repo: Le-duel_71294
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mongault, Henri
+    gutenberg_agent_id: '56159'
+    url: http://www.gutenberg.org/2009/agents/56159
+creator:
+  author:
+    agent_name: Kouprine, Alexandre
+    gutenberg_agent_id: '56158'
+    url: http://www.gutenberg.org/2009/agents/56158
+description: ''
+gutenberg_issued: '2023-07-29'
+identifiers:
+  gutenberg: '71294'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101067491751
+pgterms:marc905: 20220725220917kouprine
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bBossard, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le duel
+url: http://www.gutenberg.org/ebooks/71294
