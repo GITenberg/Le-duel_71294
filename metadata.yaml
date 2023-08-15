@@ -5,12 +5,17 @@ contributor:
     agent_name: Mongault, Henri
     gutenberg_agent_id: '56159'
     url: http://www.gutenberg.org/2009/agents/56159
+covers:
+- cover_type: archival
+  image_path: 71294-h/images/cover.jpg
 creator:
   author:
     agent_name: Kouprine, Alexandre
     gutenberg_agent_id: '56158'
     url: http://www.gutenberg.org/2009/agents/56158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71294#Le-duel
 gutenberg_issued: '2023-07-29'
 identifiers:
   gutenberg: '71294'
